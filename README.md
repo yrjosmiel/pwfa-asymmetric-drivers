@@ -4,4 +4,5 @@ Anyway, let's get started:
 This repo contains (well, *will contain*) everything needed to replicate the figures in my undergraduate thesis (and in the other derivative scientific works). These include:
 * HiPACE++ input scripts
 * Analysis and plotting scripts written in Python
+
 Of course, using the input files requires the user to have HiPACE installed in their system.
